@@ -1,16 +1,20 @@
-# cryptoapp
+# BitHaven
 
-A new Flutter project.
 
-## Getting Started
+# Splash Screen
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1691147340](https://github.com/Imran-khattak/BitHaven/assets/98551202/7af4fefa-0370-4f8d-a06f-baf12629ea38) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Home Page
+
+
+![Screenshot_1691146824](https://github.com/Imran-khattak/BitHaven/assets/98551202/c47f2d6a-e6cc-4715-b857-fbb3c8a542fe)
+
+
+# Details Page
+
+
+
+![Screenshot_1691146837](https://github.com/Imran-khattak/BitHaven/assets/98551202/4240991b-8cb1-4ffc-9f04-aa3f61f04e84)
